@@ -28,4 +28,4 @@ if response.status_code == 200:
     print(f"Yeah, '{target_uri}/?p={post_id}'")
 else:
     print("Failed!")
-￼Enter
+Enter
